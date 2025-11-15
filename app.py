@@ -344,3 +344,5 @@ with st.sidebar.container():
     st.markdown('[Indicadores de Energía Activa](#indicadores)')
     st.markdown('[Gráfico por Municipio](#barras)')
     st.markdown('[Gráfico por Departamento](#tortas)')
+
+    #
